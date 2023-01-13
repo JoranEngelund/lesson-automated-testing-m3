@@ -1,0 +1,1 @@
+[![Automated E2E Testing](https://github.com/JoranEngelund/lesson-automated-testing-m3/actions/workflows/e2e-test.yml/badge.svg?branch=master)](https://github.com/JoranEngelund/lesson-automated-testing-m3/actions/workflows/e2e-test.yml)
