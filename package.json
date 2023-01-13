@@ -1,6 +1,6 @@
 {
   "name": "unit-testing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A unit-testing environment with Jest",
   "main": "index.js",
   "scripts": {
